@@ -1,0 +1,37 @@
+_repo: A-babonak-konyve_66603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Varga, János
+    alias: Varga, Janos
+    birthdate: 1844
+    deathdate: 1881
+    gutenberg_agent_id: '53880'
+    url: http://www.gutenberg.org/2009/agents/53880
+    wikipedia: https://hu.wikipedia.org/wiki/Varga_J%C3%A1nos_(%C3%BCgyv%C3%A9d)
+description: ''
+gutenberg_issued: '2021-10-24'
+identifiers:
+  gutenberg: '66603'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology'
+- !lcc 'BF'
+- !lcsh 'Superstition'
+- GITenberg
+tableOfContents: Előszó -- Egy kis bevezetés féle -- Mi az a babonaság? -- A babona
+  eredete és az őshit babonás alakjai -- Az ujabb babonák szörnyalakjai -- A boszorkányok
+  -- A járványos betegségek -- Állatjárványok -- Rontás -- Az aszály -- A kisértetek
+  -- Garabonczások -- Táltosok vagy váltottak -- Lidérczek -- Utonjárók -- A sárkányok
+  -- A kincsőrző lelkek -- Terophile cirkulusa -- A vallásos babonák -- A csodák --
+  A rajongók -- A kuruzsolókról és a kuruzslásról -- Angyal csinálás -- Bájital --
+  Erőlekötés -- Kis gyermek ujja -- Haldoklók körüli szokások -- Egyéb babonás hit
+  és szokások -- Harangozás a vihar elé -- Viharban a fa alá -- Babona az álomról
+  -- Az asztaltánczoltatás -- A szellemidézés -- Babonás napok -- Babonás számok --
+  Babonás állatok -- Babonás füvek -- Babonás kövek -- A babonás ég -- A jóslásokról
+  -- Még egy csomó babona -- Bucsúzzunk.
+title: A babonák könyve
+url: http://www.gutenberg.org/ebooks/66603
